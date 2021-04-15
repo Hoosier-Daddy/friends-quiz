@@ -1,2 +1,2 @@
 # friends-quiz
- 
+  CLI app
